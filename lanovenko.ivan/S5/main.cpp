@@ -26,7 +26,7 @@ int main(int argc, char * argv[])
     {
       biTree.insert({key, value});
     }
-    catch(...)
+    catch (...)
     {
       std::cerr << "Option error\n";
       return 1;
