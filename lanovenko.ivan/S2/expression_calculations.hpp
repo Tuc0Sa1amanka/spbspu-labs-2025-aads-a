@@ -4,8 +4,8 @@
 #include <limits>
 #include <stdexcept>
 #include <string>
-#include "stack.hpp"
-#include "queue.hpp"
+#include <stack.hpp>
+#include <queue.hpp>
 
 namespace lanovenko
 {

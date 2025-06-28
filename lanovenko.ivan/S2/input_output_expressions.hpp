@@ -4,8 +4,8 @@
 #include <istream>
 #include <ostream>
 #include <string>
-#include "queue.hpp"
-#include "stack.hpp"
+#include <queue.hpp>
+#include <stack.hpp>
 
 namespace lanovenko
 {
