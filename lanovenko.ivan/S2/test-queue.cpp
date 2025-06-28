@@ -22,7 +22,7 @@ BOOST_AUTO_TEST_SUITE_END()
 
 BOOST_AUTO_TEST_CASE(queue_top_test)
 {
-  lanovenko::Queue< int > test{}:
+  lanovenko::Queue< int > test{};
   test.push(3);
   test.push(4);
   BOOST_TEST(test.front() == 3);
