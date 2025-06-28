@@ -1,8 +1,8 @@
 #include <iostream>
 #include <fstream>
 #include <string>
-#include "stack.hpp"
-#include "queue.hpp"
+#include <stack.hpp>
+#include <queue.hpp>
 #include "input_output_expressions.hpp"
 #include "conversion_to_postfix.hpp"
 #include "expression_calculations.hpp"
